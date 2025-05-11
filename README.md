@@ -1,75 +1,59 @@
-# VitePress Starter
+## 🍀 VitePress Starter
 
-Look at [VitePress docs](https://vitepress.dev) to learn more.
+A starter template for building fast and responsive docs.
 
-## Setup
+### ✨ Technologies
 
-Make sure to install the dependencies:
+![](https://skills.syvixor.com/api/icons?i=ts,vitepress)
+
+### 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+- [Node.js](https://nodejs.org) (v18 or higher)
+- npm, yarn, pnpm, or bun
+
+### 🚀 Quick Start
+
+#### Clone the repository
 
 ```bash
-# npm
+git clone https://github.com/syvixor/vitepress-starter.git
+```
+
+```bash
+cd vitepress-starter
+```
+
+#### Install dependencies
+
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
+# or
 yarn install
-
-# bun
+# or
+pnpm install
+# or
 bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:5173`
+#### Run Development Server
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
+# or
 yarn dev
-
-# bun
-bun run dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-## Production
+### 💡 Documentation
 
-Build the application for production:
+Check `VitePress` docs to learn more.
 
-```bash
-# npm
-npm run build
+- [VitePress](https://vitepress.dev)
 
-# pnpm
-pnpm run build
+### 📜 License
 
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-This project is licensed under [MIT License](LICENSE).
+This project is available under the [MIT License](LICENSE).
